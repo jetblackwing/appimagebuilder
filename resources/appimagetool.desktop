@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=AppImageBuilder
+Exec=aib
+Comment=Automate building AppImages from user interfaction
+Icon=appimagebuilder
+Categories=Development;
+Terminal=true
+
